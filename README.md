@@ -1,15 +1,15 @@
 # 🛡️ Cryo-Corona: Sentinel Firewall
-### Next-Gen AI-Powered gRPC Network Defense
+### Next-Gen AI-Powered Autonomous Defense
 
-Sentinel is a lightweight, proactive firewall agent powered by the **Cryo-C++ Neural Engine**. It monitors network traffic and behavioral patterns in real-time to intercept threats before they reach your core infrastructure.
+Sentinel is a lightweight, proactive firewall agent powered by the **Proprietary Cryo Core**. It monitors network traffic and behavioral patterns in real-time to intercept threats before they reach your core infrastructure.
 
 ![Sentinel Visual](https://raw.githubusercontent.com/Kennydevx/cryo-saas-portal/main/assets/banner_sentinel.png) *(Placeholder for Banner)*
 
 ---
 
 ## 🚀 Key Features
-- **Neural Anomaly Detection**: Uses "Surprise" metrics from the Cryo-Engine to identify zero-day exploits.
-- **gRPC Native**: Built-in support for ultra-low latency gRPC security checks.
+- **Proprietary Anomaly Detection**: Uses advanced AI metrics to identify zero-day exploits.
+- **Unified Secure Interface**: Built-in support for ultra-low latency security checks.
 - **Plug-and-Play**: Minimal configuration required via `config.json`.
 - **Global Sync**: Automatically synchronizes blocks and threats with the Cryo-SaaS central dashboard.
 
@@ -51,7 +51,7 @@ if not is_safe:
 ```
 
 ## 🏗️ Architecture
-Sentinel acts as a middleware between your clients and the **Cryo-SaaS Gateway**. It uses a stateful Graph Neural Network (GNN) implemented in high-performance C++ to score requests based on latent behavioral patterns.
+Sentinel acts as a middleware between your clients and the **Cryo-SaaS Gateway**. It uses an enterprise-grade AI architecture to score requests based on latent behavioral patterns.
 
 ---
 **Developed by Kennedy Guimaraes**  
