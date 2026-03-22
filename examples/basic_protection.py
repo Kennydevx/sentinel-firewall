@@ -3,7 +3,7 @@ import time
 
 def demo():
     # Initialize Sentinel (Domain synced to cryo-saas.com)
-    client = SentinelClient(server='cryo-saas.com:50505', api_key='71e6236b046a8b8c72fee2dd5285a9c0')
+    client = SentinelClient(server='api.cryo-saas.com:50505', api_key='71e6236b046a8b8c72fee2dd5285a9c0')
     
     print('?? Starting Sentinel Behavioral Check Demo...')
     requests = [

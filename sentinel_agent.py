@@ -22,7 +22,7 @@ def load_config():
     """Loads configuration from config.json if available."""
     import json
     config = {
-        "server": "cryo-saas.com:50505",
+        "server": "api.cryo-saas.com:50505",
         "api_key": "71e6236b046a8b8c72fee2dd5285a9c0",
         "threshold": 0.7,
         "session_prefix": "sentinel"

@@ -1,4 +1,4 @@
-# 🛡️ Cryo-Corona: Sentinel Firewall
+# 🛡️ Cryo: Sentinel Firewall
 ### Next-Gen AI-Powered Autonomous Defense
 
 Sentinel is a lightweight, proactive firewall agent powered by the **Proprietary Cryo Core**. It monitors network traffic and behavioral patterns in real-time to intercept threats before they reach your core infrastructure.
@@ -55,4 +55,4 @@ Sentinel acts as a middleware between your clients and the **Cryo-SaaS Gateway**
 
 ---
 **Developed by Kennedy Guimaraes**  
-© 2026 Cryo-Corona Ecosystem. All rights reserved.
+© 2026 Cryo Ecosystem. All rights reserved.
